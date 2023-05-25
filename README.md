@@ -48,7 +48,7 @@
 7. Template
 
 -> gestioneaza un sablon fix de actiuni
--> -> implementarea algoritmilor cu pasi comuni
+-> implementarea algoritmilor cu pasi comuni
 -> realizarea de framework-uri sau biblioteci
 -> construirea de modele de procesare in flux
 -> implementarea de actiuni intr-un framewoek
